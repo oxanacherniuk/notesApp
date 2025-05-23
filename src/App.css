@@ -1,0 +1,10 @@
+.app {
+	display: flex;
+	padding: 30px;
+}
+
+@media screen and (max-width: 940px){
+  .app {
+    display: block;
+  }
+}

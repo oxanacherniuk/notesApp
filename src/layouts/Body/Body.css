@@ -1,0 +1,17 @@
+.body {
+	padding: 50px;
+	width: 100%;
+}
+
+@media screen and (max-width: 940px){
+    .body {
+        padding: 0;
+        gap: 30px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .body {
+        gap: 20px;
+    }
+}

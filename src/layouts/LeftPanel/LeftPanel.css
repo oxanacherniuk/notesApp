@@ -1,0 +1,20 @@
+.left-panel {
+	min-width: 400px;
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+
+@media screen and (max-width: 480px){
+    .left-panel {
+        min-width: 300px;
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width: 375px){
+    .left-panel {
+        min-width: 280px;
+        gap: 14px;
+    }
+}

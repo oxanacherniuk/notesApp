@@ -1,0 +1,13 @@
+.select {
+	padding: 10px;
+	background: none;
+	border: none;
+	border-bottom: 1px solid #ffffff;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.option {
+	background-color: #9190DE;
+	border: 1px solid #323232;
+}
